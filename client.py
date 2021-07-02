@@ -1,3 +1,7 @@
+#!/bin/python
+#DEVELOPED BY DEVILMASTER
+#Don't Be a Script-kiddie
+
 import sys, time, socket, threading, os
 
 os.system('clear')
