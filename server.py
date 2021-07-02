@@ -18,11 +18,11 @@ banner = colors.cyan + """
 \___/_//_/_/ |_/_/     /_/|_|\____/\____/_/  /_/
 
  [*] CHAT-ROOM - A SIMPLE CHAT SERVER [*]
- [*]   DEVELOPED BY DEVIL MASTER    [*]
+ [*]    DEVELOPED BY DEVIL MASTER     [*]
 
 """
 host = '127.0.0.1'
-port = 5555
+port = 4444
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((host, port))
