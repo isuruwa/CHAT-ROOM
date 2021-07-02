@@ -1,4 +1,6 @@
-# CHAT-ROOM
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-CHAT--ROOM-brightgreen?style=for-the-badge&logo=appveyor"></a>
+
+# CHAT-ROOM : <img src="https://img.icons8.com/clouds/50/000000/chat.png"/>
 
 ![CHAT-ROOM](https://user-images.githubusercontent.com/72663288/124294370-37472c80-db75-11eb-9334-f23f98d97ad6.jpg)
 
